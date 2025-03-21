@@ -1,0 +1,1 @@
+erInput.matches("\\d+ \\d+ [ULDREuldre]")
